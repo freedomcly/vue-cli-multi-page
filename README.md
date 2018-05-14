@@ -19,7 +19,7 @@
 首先，在`node`和`npm`环境下，生成新的项目：
 
     npm install --global vue-cli
-    vue init freedomcly/vue-cli-mpa YOUR_PROJECT_NAME
+    vue init freedomcly/vue-cli-multi-page YOUR_PROJECT_NAME
 
 运行项目：
 
