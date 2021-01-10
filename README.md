@@ -11,7 +11,7 @@
 * [es6](http://es6-features.org/)
 * [eslint](https://eslint.org/)
 * [superagent](https://github.com/visionmedia/superagent)
-* [qcloud cdn](https://cloud.tencent.com/product/cos)
+* [qcloudcdn](https://cloud.tencent.com/product/cos)
 * [flexible](https://github.com/amfe/lib-flexible)
 
 # 起步
